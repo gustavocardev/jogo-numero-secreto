@@ -17,7 +17,3 @@ Acesse: (https://gustavocardev.github.io/jogo-numero-secreto/)
 - **HTML5** semântico
 - **CSS3** (layout responsivo, tipografia)
 - **JavaScript** (DOM API, `Math.random`, estado do jogo)
-
-
-# abrir no navegador
-# (basta abrir index.html)
