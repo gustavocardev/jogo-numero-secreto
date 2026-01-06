@@ -4,7 +4,7 @@
 Uma aplicação web simples e responsiva em **HTML + CSS + JavaScript** onde o usuário tenta adivinhar um número secreto entre 1 e 10. O projeto inclui feedback instantâneo, contagem de tentativas, reinício rápido e (opcional) síntese de voz via `responsiveVoice`.
 
 ## 🔗 Demo
-Acesse: https://seuusuario.github.io/jogo-numero-secreto/
+Acesse: (https://gustavocardev.github.io/jogo-numero-secreto/)
 
 ## ✨ Recursos
 - Validação de entrada (1 a 10, números inteiros)
